@@ -1,0 +1,357 @@
+Aug 15, 2015 9:14:27 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 15, 2015 9:14:27 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 15, 2015 9:21:00 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 15, 2015 9:21:00 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 15, 2015 9:22:03 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 15, 2015 9:22:03 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 15, 2015 9:29:34 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 15, 2015 9:29:34 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 15, 2015 9:38:49 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 15, 2015 9:38:50 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 15, 2015 9:40:31 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 15, 2015 9:40:31 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:47:47 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:47:48 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:54:26 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:54:26 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:55:19 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:55:19 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:00:32 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:00:32 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:03:40 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:03:41 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:03:48 AM udpserver.UDPServer echo
+INFO: Packet recieved = Type = asd Query = asd from: /127.0.0.1
+Aug 16, 2015 2:05:26 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:05:26 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:07:16 AM udpserver.UDPServer echo
+INFO: Packet recieved = Type = sd Query = ds from: /127.0.0.1
+Aug 16, 2015 2:08:30 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:08:30 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:08:41 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = d Query = d from: /127.0.0.1
+Aug 16, 2015 2:08:51 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = Nie Query = Ma mowy from: /127.0.0.1
+Aug 16, 2015 2:09:30 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:09:30 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:09:57 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:09:57 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:13:10 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:13:10 AM udpserver.UDPServer echo
+INFO: Stopped application
+Aug 16, 2015 2:13:38 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:13:38 AM udpserver.UDPServer echo
+INFO: Stopped application
+Aug 16, 2015 2:14:00 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:14:00 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:26:17 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:26:17 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:30:51 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 2:30:51 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 2:31:00 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = asd Query = asd from: /178.183.143.216
+Aug 16, 2015 1:12:25 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:12:25 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:14:11 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:14:11 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:33:22 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:33:22 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:33:26 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:36 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:40 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:41 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:42 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:42 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:42 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:42 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:42 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:43 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:43 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:43 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:43 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:43 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:44 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:44 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:44 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:44 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:44 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:45 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:45 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:45 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:45 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:45 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:46 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:46 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:46 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:46 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:46 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:47 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:47 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:47 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:47 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:47 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:48 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:48 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:48 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:48 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:48 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:49 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:49 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:49 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:33:49 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:34:42 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 1:34:42 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 1:34:53 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:34:55 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:34:58 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 16, 2015 1:48:41 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = asd Query = asdd from: /178.183.141.26
+Aug 16, 2015 5:58:10 PM udpserver.UDPServer echo
+INFO: Started application
+Aug 16, 2015 5:58:10 PM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 16, 2015 6:35:04 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type = halo Query = co tam
+why
+ from: /83.22.105.252
+Aug 16, 2015 6:35:42 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+ from: /83.22.105.252
+Aug 16, 2015 6:35:50 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:19 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:20 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:20 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:20 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:20 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:21 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:21 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:21 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:21 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:23 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:23 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:23 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:23 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:23 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:23 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:24 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:24 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:24 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:24 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:24 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:24 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:25 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:25 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:25 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:25 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:25 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 16, 2015 6:36:26 PM udpserver.UDPServer echo
+INFO: Packet recieved: Type =  Query = 
+<3
+ from: /83.22.105.252
+Aug 17, 2015 9:25:41 AM udpserver.UDPServer echo
+INFO: Started application
+Aug 17, 2015 9:25:41 AM udpserver.UDPServer echo
+INFO: Server socket created. Waiting for incoming data...
+Aug 17, 2015 9:25:56 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:25:59 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:00 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:01 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:01 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:01 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:02 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:02 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:02 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:03 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:03 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:03 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:03 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:03 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
+Aug 17, 2015 9:26:03 AM udpserver.UDPServer echo
+INFO: Packet recieved: Type = sd Query = sd from: /178.183.141.26
